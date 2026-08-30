@@ -1,0 +1,58 @@
+about:
+  description: 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
+  license: MIT
+  homepage: https://www.horizon1123.top
+  head: 36dcca0
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-08-30T05:18:40Z
+timeline:
+  created: 2026-02-20
+  lastCommit: 2026-08-23
+  lastRelease: ?
+popularity:
+  star: 9118
+  watcher: 24
+  fork: 1404
+  release: 0
+  contributor: 33
+  pullRequest: 36
+  issue: 51
+language:
+  Python: 764872
+  Shell: 1564
+  Dockerfile: 1254
+totalLine: 767690
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 2
+    openIssue: 2
+    commit: 45
+  last90d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 16
+    openIssue: 3
+    commit: 83
+  last180d:
+    since: 2026-03-03
+    release: 0
+    mergedPR: 48
+    openPR: 0
+    closedIssue: 47
+    openIssue: 3
+    commit: 191
+  last360d:
+    since: 2025-09-04
+    release: 0
+    mergedPR: 51
+    openPR: 0
+    closedIssue: 48
+    openIssue: 3
+    commit: 254
