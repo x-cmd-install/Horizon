@@ -7,7 +7,7 @@ about:
   head: 88a2077
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:34:32Z
+  collectedAt: 2026-09-04T20:56:03Z
 timeline:
   created: 2026-02-20
   lastCommit: 2026-09-03
@@ -82,5 +82,73 @@ total:
   openIssue: 3
   commit: 260
 ---
+path: /home/runner/.x-repo/github.com/Thysrael/Horizon
+collectedAt: 2026-09-04T20:56:04Z
+loc:
+  Python:
+    code: 18180
+    comments: 213
+    blanks: 3526
+    files: 103
+  Json:
+    code: 876
+    comments: 0
+    blanks: 0
+    files: 7
+  Css:
+    code: 150
+    comments: 14
+    blanks: 27
+    files: 1
+  JavaScript:
+    code: 103
+    comments: 11
+    blanks: 18
+    files: 1
+  Toml:
+    code: 54
+    comments: 0
+    blanks: 5
+    files: 1
+  Xml:
+    code: 44
+    comments: 0
+    blanks: 0
+    files: 2
+  Sh:
+    code: 39
+    comments: 9
+    blanks: 14
+    files: 1
+  Yaml:
+    code: 32
+    comments: 5
+    blanks: 2
+    files: 2
+  Dockerfile:
+    code: 28
+    comments: 9
+    blanks: 8
+    files: 1
+  Html:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2253
+    blanks: 865
+    files: 28
+total:
+  code: 20253
+  comments: 2528
+  blanks: 4478
+  files: 149
 ---
 
