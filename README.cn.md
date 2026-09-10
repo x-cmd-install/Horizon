@@ -1,0 +1,61 @@
+# Horizon
+
+[English version](./README.md)
+
+📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
+
+![Horizon](https://repo.x-cmd.io/Horizon.svg?lang=zh)
+
+## 安装
+
+```sh
+x install Horizon
+```
+
+## 代码洞察
+
+合计: **19,527** 行代码（覆盖前 5 种语言、共 **113** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 18,180 | 213 | 3,526 | 103 |
+| Json | 876 | 0 | 0 | 7 |
+| Css | 150 | 14 | 27 | 1 |
+| JavaScript | 103 | 11 | 18 | 1 |
+| Toml | 54 | 0 | 5 | 1 |
+
+## 源代码
+
+- **上游仓库**: <https://github.com/Thysrael/Horizon>
+- **官网**: <https://www.horizon1123.top>
+- **许可证**: MIT
+
+## 流行度
+
+- **Star**: 9,320 · **Fork**: 1,449 · **开放 issue**: 51 · **贡献者**: 34
+
+## 累计统计
+
+- **发布数**: 0 · **已合并 PR**: 52 · **开放 PR**: 0 · **已关闭 issue**: 48 · **开放 issue**: 3 · **提交数**: 262
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 0 | 1 | 1 | 6 |
+| last60d | 2026-07-12 | 0 | 8 | 0 | 5 | 3 | 51 |
+| 90d | 2026-06-12 | 0 | 14 | 0 | 14 | 3 | 80 |
+| last180d | 2026-03-14 | 0 | 41 | 0 | 43 | 3 | 180 |
+| 360d | 2025-09-15 | 0 | 52 | 0 | 48 | 3 | 257 |
+| last720d | 2024-09-20 | 0 | 52 | 0 | 48 | 3 | 262 |
+
+## 改进这些数据
+
+Horizon 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `Horizon` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
+
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/Horizon.yml>（或索引实际使用的路径）
+
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
+
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:42:31Z._
