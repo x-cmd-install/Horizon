@@ -4,7 +4,7 @@
 
 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 
-[![x-cmd/install — Horizon Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Horizon.svg?lang=zh)](https://x-cmd.com/install/Horizon)
+[![x-cmd/install — Horizon Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Horizon.svg?lang=zh)](https://x-cmd.com/install/Horizon)
 
 ## 安装
 
@@ -32,7 +32,7 @@ x install Horizon
 
 ## 流行度
 
-- **Star**: 9,431 · **Fork**: 1,455 · **开放 issue**: 52 · **贡献者**: 37
+- **Star**: 9,438 · **Fork**: 1,457 · **开放 issue**: 52 · **贡献者**: 37
 
 ## 累计统计
 
@@ -42,12 +42,12 @@ x install Horizon
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 3 | 0 | 1 | 0 | 11 |
-| last60d | 2026-07-24 | 0 | 6 | 0 | 7 | 0 | 56 |
-| 90d | 2026-06-24 | 0 | 14 | 0 | 13 | 0 | 71 |
-| last180d | 2026-03-26 | 0 | 42 | 0 | 45 | 0 | 178 |
-| 360d | 2025-09-27 | 0 | 54 | 0 | 52 | 0 | 265 |
-| last720d | 2024-10-02 | 0 | 54 | 0 | 52 | 0 | 270 |
+| 30d | 2026-08-24 | 0 | 3 | 0 | 1 | 0 | 11 |
+| last60d | 2026-07-25 | 0 | 6 | 0 | 7 | 0 | 56 |
+| 90d | 2026-06-25 | 0 | 14 | 0 | 13 | 0 | 71 |
+| last180d | 2026-03-27 | 0 | 42 | 0 | 45 | 0 | 178 |
+| 360d | 2025-09-28 | 0 | 54 | 0 | 52 | 0 | 265 |
+| last720d | 2024-10-03 | 0 | 54 | 0 | 52 | 0 | 270 |
 
 ## 改进这些数据
 
@@ -58,4 +58,4 @@ Horizon 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:35:37Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:50:08Z._
