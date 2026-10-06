@@ -32,22 +32,22 @@ Total: **22,283** lines of code across **121** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,553 · **Forks**: 1,476 · **Open issues**: 52 · **Contributors**: 37
+- **Stars**: 9,558 · **Forks**: 1,476 · **Open issues**: 53 · **Contributors**: 37
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 54 · **Open PRs**: 0 · **Closed issues**: 52 · **Open issues**: 0 · **Commits**: 270
+- **Releases**: 0 · **Merged PRs**: 54 · **Open PRs**: 0 · **Closed issues**: 53 · **Open issues**: 0 · **Commits**: 270
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 2 | 0 | 1 | 0 | 8 |
-| last60d | 2026-08-06 | 0 | 4 | 0 | 4 | 0 | 15 |
-| 90d | 2026-07-07 | 0 | 12 | 0 | 9 | 0 | 63 |
-| last180d | 2026-04-08 | 0 | 42 | 0 | 45 | 0 | 173 |
-| 360d | 2025-10-10 | 0 | 54 | 0 | 52 | 0 | 265 |
-| last720d | 2024-10-15 | 0 | 54 | 0 | 52 | 0 | 270 |
+| 30d | 2026-09-06 | 0 | 2 | 0 | 2 | 0 | 8 |
+| last60d | 2026-08-07 | 0 | 3 | 0 | 5 | 0 | 15 |
+| 90d | 2026-07-08 | 0 | 12 | 0 | 10 | 0 | 63 |
+| last180d | 2026-04-09 | 0 | 42 | 0 | 46 | 0 | 173 |
+| 360d | 2025-10-11 | 0 | 54 | 0 | 53 | 0 | 265 |
+| last720d | 2024-10-16 | 0 | 54 | 0 | 53 | 0 | 270 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for Horizon lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T07:00:00Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:46:13Z._
