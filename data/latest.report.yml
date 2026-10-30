@@ -2,20 +2,20 @@ about:
   description: "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达"
   license: MIT
   homepage: https://www.horizon1123.top
-  head: 5ea6f4d
+  head: 0641f1e
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T07:11:40Z
+  collectedAt: 2026-10-30T07:09:30Z
 timeline:
   created: 2026-02-20
-  lastCommit: 2026-10-26
+  lastCommit: 2026-10-29
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 11052
+  star: 11067
   watcher: 28
   fork: 1659
   release: 0
@@ -23,72 +23,72 @@ popularity:
   pullRequest: 100
   issue: 65
 language:
-  Python: 974221
+  Python: 974331
   Shell: 1661
   Dockerfile: 1254
-totalBytes: 977136
+totalBytes: 977246
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 8
     openPR: 0
     closedIssue: 12
     openIssue: 2
-    commit: 25
+    commit: 26
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 11
     openPR: 0
     closedIssue: 13
     openIssue: 2
-    commit: 36
+    commit: 37
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
-    mergedPR: 13
+    mergedPR: 12
     openPR: 0
     closedIssue: 17
     openIssue: 2
-    commit: 45
+    commit: 46
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
     mergedPR: 44
     openPR: 0
     closedIssue: 54
     openIssue: 2
-    commit: 158
+    commit: 159
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
     mergedPR: 62
     openPR: 0
     closedIssue: 63
     openIssue: 2
-    commit: 290
+    commit: 291
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
     mergedPR: 62
     openPR: 0
     closedIssue: 63
     openIssue: 2
-    commit: 295
+    commit: 296
 total:
   release: 0
   mergedPR: 62
   openPR: 0
   closedIssue: 63
   openIssue: 2
-  commit: 295
+  commit: 296
 ---
 path: /home/runner/.x-repo/github.com/Thysrael/Horizon
-collectedAt: 2026-10-29T07:11:41Z
+collectedAt: 2026-10-30T07:09:32Z
 loc:
   Python:
-    code: 22181
+    code: 22182
     comments: 241
     blanks: 4228
     files: 120
@@ -148,7 +148,7 @@ loc:
     blanks: 1083
     files: 33
 total:
-  code: 25635
+  code: 25636
   comments: 3176
   blanks: 5398
   files: 174
