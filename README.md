@@ -14,11 +14,11 @@ x install Horizon
 
 ## Code insight
 
-Total: **26,040** lines of code across **147** files in the top 5 languages.
+Total: **26,401** lines of code across **150** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 23,405 | 258 | 4,518 | 134 |
+| Python | 23,766 | 266 | 4,594 | 137 |
 | Svg | 1,235 | 0 | 0 | 3 |
 | Json | 934 | 0 | 0 | 8 |
 | Css | 150 | 14 | 27 | 1 |
@@ -32,22 +32,22 @@ Total: **26,040** lines of code across **147** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 13,049 · **Forks**: 1,866 · **Open issues**: 67 · **Contributors**: 45
+- **Stars**: 13,124 · **Forks**: 1,873 · **Open issues**: 67 · **Contributors**: 46
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 83 · **Open PRs**: 4 · **Closed issues**: 65 · **Open issues**: 2 · **Commits**: 346
+- **Releases**: 0 · **Merged PRs**: 85 · **Open PRs**: 3 · **Closed issues**: 65 · **Open issues**: 2 · **Commits**: 350
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 29 | 4 | 7 | 2 | 61 |
-| last60d | 2026-09-09 | 0 | 31 | 4 | 15 | 2 | 71 |
-| 90d | 2026-08-10 | 0 | 32 | 4 | 17 | 2 | 78 |
-| last180d | 2026-05-12 | 0 | 63 | 4 | 46 | 2 | 185 |
-| 360d | 2025-11-13 | 0 | 83 | 4 | 65 | 2 | 326 |
-| last720d | 2024-11-18 | 0 | 83 | 4 | 65 | 2 | 346 |
+| 30d | 2026-10-10 | 0 | 31 | 3 | 7 | 2 | 64 |
+| last60d | 2026-09-10 | 0 | 33 | 3 | 15 | 2 | 73 |
+| 90d | 2026-08-11 | 0 | 34 | 3 | 17 | 2 | 79 |
+| last180d | 2026-05-13 | 0 | 63 | 3 | 44 | 2 | 173 |
+| 360d | 2025-11-14 | 0 | 85 | 3 | 65 | 2 | 330 |
+| last720d | 2024-11-19 | 0 | 85 | 3 | 65 | 2 | 350 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for Horizon lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:18:21Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:59:45Z._
