@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:05:48Z
+  collectedAt: 2026-11-28T09:34:52Z
 timeline:
   created: 2026-02-20
   lastCommit: 2026-11-25
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 15167
+  star: 15188
   watcher: 37
-  fork: 2212
+  fork: 2220
   release: 0
-  contributor: 53
-  pullRequest: 151
+  contributor: 54
+  pullRequest: 153
   issue: 73
 language:
   Python: 1112010
@@ -29,63 +29,63 @@ language:
 totalBytes: 1114925
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 36
-    openPR: 2
+    openPR: 3
     closedIssue: 2
     openIssue: 4
-    commit: 60
+    commit: 61
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 44
-    openPR: 2
+    openPR: 3
     closedIssue: 16
     openIssue: 4
-    commit: 86
+    commit: 87
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 47
-    openPR: 2
+    openPR: 3
     closedIssue: 17
     openIssue: 4
-    commit: 97
+    commit: 98
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
-    mergedPR: 66
-    openPR: 2
+    mergedPR: 63
+    openPR: 3
     closedIssue: 36
     openIssue: 4
-    commit: 179
+    commit: 180
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 98
-    openPR: 2
+    openPR: 3
     closedIssue: 68
     openIssue: 4
-    commit: 351
+    commit: 352
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 98
-    openPR: 2
+    openPR: 3
     closedIssue: 68
     openIssue: 4
     commit: 390
 total:
   release: 0
-  mergedPR: 98
-  openPR: 2
+  mergedPR: 99
+  openPR: 3
   closedIssue: 69
   openIssue: 4
   commit: 390
 ---
 path: /home/runner/.x-repo/github.com/Thysrael/Horizon
-collectedAt: 2026-11-27T10:05:49Z
+collectedAt: 2026-11-28T09:34:53Z
 loc:
   Python:
     code: 25140
